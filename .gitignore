@@ -1,0 +1,5 @@
+*.log
+User_Manual/
+*-*.txt
+SRS* !srs_final.*
+SDD* !sdd_final.*
